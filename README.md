@@ -1,2 +1,19 @@
-# Tic-Tac-Toe
-This javascript project is created using html,css and javascript.This is basic popular game known as TIC-TAC-TOE.
+# 🎮 Tic-Tac-Toe Game
+
+A simple and fun **Tic-Tac-Toe** game built using HTML, CSS, and JavaScript. 
+
+
+## 🚀 Features
+
+- 🔢 3x3 game grid
+- ♻️ Reset and replay functionality
+- 🎨 Basic styling for a clean user experience
+
+
+## 🛠️ Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+
